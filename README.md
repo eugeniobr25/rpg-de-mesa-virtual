@@ -21,7 +21,7 @@ O RPG de Mesa Virtual é um projeto em andamento que visa oferecer aos jogadores
 ## Tecnologias Utilizadas
 
 - **Frontend(a decidir):** React ou Angular
-- **Backend:** Node ou Java
+- **Backend(a decidir):** Node ou Java
 - **Banco de Dados:** PostgreSQL
 
 ## Como Contribuir
