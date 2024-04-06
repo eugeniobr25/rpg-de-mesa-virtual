@@ -23,10 +23,28 @@ O RPG de Mesa Virtual é um projeto em andamento que visa oferecer aos jogadores
 - **Rolagem de Dados:** Os jogadores podem rolar dados diretamente na plataforma para determinar o resultado de ações, testes de habilidades, danos de combate, entre outros.
 
 ## Tecnologias Utilizadas
-
-- **Frontend(a decidir):** React ou Angular
-- **Backend(a decidir):** Node ou Java
-- **Banco de Dados:** PostgreSQL
+<div align="center">
+  <div>
+    <span>Frontend(a decidir):</span>
+  </div>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> ou <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40"/>
+  </div>
+  <br>
+  <div>
+    <span>Backend(a decidir)</span>
+  </div>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" heigth="40"/> ou <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  </div>
+  <br>
+  <div>
+    <span>Banco de Dados</span>
+  </div>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  </div>
+</div>
 
 ## Como Contribuir
 
