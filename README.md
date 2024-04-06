@@ -18,7 +18,7 @@ O RPG de Mesa Virtual é um projeto em andamento que visa oferecer aos jogadores
 
 ## Tecnologias Utilizadas
 
-- **Frontend:** Angular
+- **Frontend(a decidir):** React ou Angular 
 - **Backend:** Java
 - **Banco de Dados:** PostgreSQL
 
@@ -29,10 +29,6 @@ Este projeto está em constante desenvolvimento e você é bem-vindo para contri
 - **Teste o Jogo:** Como ainda é um projeto embrionário, ideias são muito bem-vindas. A ideia é que seja uma aplicação simples, voltada para partidas rápidas (one shots), mas também possa acolher campanhas longas. Portanto, como forma de discutir ideias e conceitos, relate-as abrindo novas issues.
   
 - **Desenvolvimento:** Se você é um desenvolvedor, sinta-se à vontade para me indicar ferramentas, bibliotecas e funcionalidades a fim de contribuir com novos recursos, correções de bugs ou melhorias no código.
-
-## Como Começar
-
-1. **Clone o Repositório:** `git clone https://github.com/seu-usuario/rpg-mesa-virtual.git`
 
 ## Licença
 
