@@ -54,6 +54,12 @@ Este projeto está em constante desenvolvimento e você é bem-vindo para contri
   
 - Se você é um desenvolvedor, sinta-se à vontade para me indicar ferramentas, bibliotecas e funcionalidades a fim de contribuir com novos recursos, correções de bugs ou melhorias no código.
 
+
+## Link do Notion [![Notion](https://img.shields.io/badge/Notion-191919?style=for-the-badge&logo=notion)](https://www.notion.so/eugenio-developer/RPG-de-Mesa-Virtual-24d9ad96f3764b99b06a4f45090b3d46)
+
+
+[![Notion](https://img.shields.io/badge/Notion-191919?style=for-the-badge&logo=notion)](https://www.notion.so/eugenio-developer/RPG-de-Mesa-Virtual-24d9ad96f3764b99b06a4f45090b3d46)
+
 ## Licença
 
 Este projeto é licenciado sob a [MIT License](LICENSE).
