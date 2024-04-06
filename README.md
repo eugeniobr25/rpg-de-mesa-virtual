@@ -16,7 +16,7 @@ O RPG de Mesa Virtual é um projeto em andamento que visa oferecer aos jogadores
   
 - **Sistema de Combate:** O sistema de combate permite que os jogadores enfrentem desafios, como monstros, inimigos e outras ameaças.
   
-- **Chat Integrado com Videochamada:** Um chat integrado permite que os jogadores se comuniquem entre si e com o mestre do jogo. Além disso, a plataforma oferece a opção de videochamada, permitindo utilizar vídeo e áudio durante a partida, semelhante ao Google Meet.
+- **Chat Integrado:** Um chat integrado permite que os jogadores se comuniquem entre si e com o mestre do jogo.
   
 - **Mesa Virtual:** A mesa virtual funciona como uma prancheta de desenho, onde o mestre (narrador) pode fazer esboços para explicações durante a partida. Ela também oferece miniaturas generalistas de personagens, monstros e objetos simples que podem ser usados para facilitar a jogabilidade.
 
