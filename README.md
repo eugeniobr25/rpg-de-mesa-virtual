@@ -1,4 +1,8 @@
-# RPG de Mesa Virtual - Projeto em Andamento
+# RPG de Mesa Virtual (nome provisorio)- Projeto em Andamento
+
+## Possiveis nomes:
+  - VT RPG (Virtual Table RPG)
+  - 
 
 ## Visão Geral do Projeto
 
