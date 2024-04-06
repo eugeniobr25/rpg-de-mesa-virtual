@@ -16,10 +16,12 @@ O RPG de Mesa Virtual é um projeto em andamento que visa oferecer aos jogadores
   
 - **Mesa Virtual:** A mesa virtual funciona como uma prancheta de desenho, onde o mestre (narrador) pode fazer esboços para explicações durante a partida. Ela também oferece miniaturas generalistas de personagens, monstros e objetos simples que podem ser usados para facilitar a jogabilidade.
 
+- **Rolagem de Dados:** Os jogadores podem rolar dados diretamente na plataforma para determinar o resultado de ações, testes de habilidades, danos de combate, entre outros.
+
 ## Tecnologias Utilizadas
 
-- **Frontend(a decidir):** React ou Angular 
-- **Backend:** Java
+- **Frontend(a decidir):** React ou Angular
+- **Backend:** Node ou Java
 - **Banco de Dados:** PostgreSQL
 
 ## Como Contribuir
@@ -29,6 +31,7 @@ Este projeto está em constante desenvolvimento e você é bem-vindo para contri
 - **Teste o Jogo:** Como ainda é um projeto embrionário, ideias são muito bem-vindas. A ideia é que seja uma aplicação simples, voltada para partidas rápidas (one shots), mas também possa acolher campanhas longas. Portanto, como forma de discutir ideias e conceitos, relate-as abrindo novas issues.
   
 - **Desenvolvimento:** Se você é um desenvolvedor, sinta-se à vontade para me indicar ferramentas, bibliotecas e funcionalidades a fim de contribuir com novos recursos, correções de bugs ou melhorias no código.
+
 
 ## Licença
 
